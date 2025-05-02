@@ -39,7 +39,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
+git clone https://github.com/Harshit0741/awwwards-winning-website-clone.git
 cd award-winning-website
 ```
 
